@@ -12,3 +12,7 @@
 ## Coding challenge in Graph.
 
 - <a href="https://leetcode.com/problems/longest-consecutive-sequence/">Longest Consecutive Sequence</a>
+
+## Coding challenge in Hash Table
+
+- <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a>
