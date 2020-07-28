@@ -16,3 +16,7 @@
 ## Coding challenge in Hash Table
 
 - <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a>
+
+## Coding challenge in Heap
+
+- <a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/">Kth Largest Element in a Stream</a>
