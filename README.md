@@ -20,3 +20,7 @@
 ## Coding challenge in Heap
 
 - <a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/">Kth Largest Element in a Stream</a>
+
+## Coding challenge in Interval
+
+- <a href="https://leetcode.com/problems/merge-intervals/">Merge Intervals</a>
