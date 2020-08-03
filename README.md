@@ -28,3 +28,7 @@
 ## Coding challenge in Linked List
 
 - <a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a>
+
+## Coding challenge in Queue
+
+- <a href="https://leetcode.com/problems/task-scheduler/">Task Scheduler</a>
