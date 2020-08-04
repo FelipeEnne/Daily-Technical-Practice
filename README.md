@@ -32,3 +32,7 @@
 ## Coding challenge in Queue
 
 - <a href="https://leetcode.com/problems/task-scheduler/">Task Scheduler</a>
+
+## Coding challenge in Queue
+
+- <a href="https://leetcode.com/problems/shuffle-string/">Shuffle String</a>
