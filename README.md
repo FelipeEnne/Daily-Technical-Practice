@@ -36,3 +36,7 @@
 ## Coding challenge in Queue
 
 - <a href="https://leetcode.com/problems/shuffle-string/">Shuffle String</a>
+
+## Coding challenge in Tree
+
+- <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a>
